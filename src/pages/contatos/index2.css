@@ -1,0 +1,10 @@
+.logo{
+    width: 6%;
+    height: 6%;
+   }
+   nav{
+     background-color: #aab1b4;
+     display: flex;
+     justify-content: space-between;
+     gap: 10px,10px,10px,10px ;}
+   
